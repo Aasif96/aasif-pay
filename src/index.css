@@ -103,7 +103,7 @@ header{
 
 .main-hero-container{
     height: 80vh;
-    display: flex;
+    display: flex; 
 }
 
 .main-hero-container h1{
